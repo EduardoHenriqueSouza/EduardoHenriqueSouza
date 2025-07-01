@@ -26,6 +26,15 @@
   </a>
 </div>
 
+<br><br>
+## 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EduardoHenriqueSouza&show_icons=true&theme=radical" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoHenriqueSouza&layout=compact&theme=radical" />
+</div>
+
+<br><br>
 ## 🚀 Projetos em Destaque
 - [Currículo Pessoal](https://github.com/EduardoHenriqueSouza/PortifolioInicial.git)
 - [Lista de Tarefa](https://github.com/EduardoHenriqueSouza/To_Do_List.git)
