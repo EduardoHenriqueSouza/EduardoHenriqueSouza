@@ -1,4 +1,4 @@
-# Eduardo Souza, desenvolvedor em formação!
+# Desenvolvedor em formação!
 
 <!-- Pequena bio -->
 ✅ Olá! Sou Desenvolvedor Front-End com foco em criar interfaces modernas e responsivas.  
